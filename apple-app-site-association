@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "YVJ758W664.com.qbf.os",
+                "paths": [ "/wxshare/*"]
+            }
+        ]
+    }
+}
